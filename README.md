@@ -4,7 +4,7 @@ This project analyzes customer churn and retention behavior for a streaming plat
 
 ---
 
-## 🎯 Project Objective  
+## Project Objective  
 
 Customer retention is a critical challenge for subscription-based streaming platforms. This project aims to:
 
@@ -16,7 +16,7 @@ The analysis focuses on modeling the time until customer non-renewal using strea
 
 ---
 
-## 📊 Methodology  
+## Methodology  
 
 This study applies advanced survival analysis techniques commonly used in customer analytics and retention modeling.
 
@@ -31,7 +31,7 @@ Streaming hours were treated as the time variable, while non-renewal was modeled
 
 ---
 
-## 🔎 Key Insights  
+## Key Insights  
 
 The analysis produced several important findings:
 
@@ -45,7 +45,7 @@ These findings suggest that sustained engagement plays a more critical role in r
 
 ---
 
-## 💡 Business Implications  
+## Business Implications  
 
 The results indicate that streaming platforms should prioritize engagement-driven retention strategies rather than relying primarily on promotional acquisition incentives.
 
@@ -59,7 +59,7 @@ Recommended strategic actions include:
 
 ---
 
-## 🛠 Tools & Technologies  
+## Tools & Technologies  
 
 - R Programming  
 - survival package  
